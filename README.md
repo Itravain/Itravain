@@ -9,7 +9,6 @@ Busco **usar a tecnologia para resolver problemas concretos**, com propósito e 
 ### 🚀 Tecnologias que uso
 ---
 - **Linguagens:** C, Python, JavaScript, SQL  
-- **Ferramentas e plataformas:** Power BI, Excel, AppSheet, Canva, PowerPoint  
 - **Hardware e embarcados:** Verilog, Arduino, FPGA, ARM
 
 
