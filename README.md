@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ícaro 
+# Olá! Eu sou o Ícaro 
 
 Sou apaixonado por **tecnologia, lógica e construção de sistemas que fazem sentido**.  
 Desde pequeno, sempre gostei de entender **como as coisas funcionam** — uma curiosidade que me levou da eletrônica e robótica até o desenvolvimento de soluções reais em tecnologia.  
